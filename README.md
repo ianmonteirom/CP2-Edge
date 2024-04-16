@@ -7,5 +7,8 @@
 - Adicionar a função de pegar a calcular a média da luminosidade, usando o map() como ele pediu na aula
 - Adicionar para mostrar os desenhos da luminosidade, umidade e temperatura abaixo do valor no display
 
+## Problemas Encontrados 🤔
+- Ambos DHT22 e o Display conectam no 5V do Arduino
+
 ## Link do Projeto no Wokwi
 - https://wokwi.com/projects/395277160338652161
