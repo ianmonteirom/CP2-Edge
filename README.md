@@ -46,10 +46,10 @@ para valores abaixo de 50% e também mostrar a umidade;
 - O Fotorresistor do Wokwi parece muito diferente do Tinkercad
 
 
-## Link do Projeto no Wokwi
+## Link do Projeto no Wokwi 🛠️
 - https://wokwi.com/projects/395277160338652161
 
   
-## Outros Links Úteis
+## Outros Links Úteis 🔗
 - Projeto da CP1 (A de Luminosidade): https://www.tinkercad.com/things/b7CI3g99trm-cp1-ldr
 - CharEditor (Criar os desenhos/símbolos para mostrar no display): https://chareditor.com/
