@@ -5,7 +5,7 @@
 // Definindo o pino do DHT, o tipo do DHT e o número de leituras para o cálculo da média
 #define DHTPIN 7     // Pino de dados do DHT22 conectado ao pino digital 7
 #define DHTTYPE DHT22   // Tipo do sensor DHT
-#define NUM_READINGS 6  // Número de leituras para calcular a média
+#define NUM_READINGS 5  // Número de leituras para calcular a média
 
 DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal lcd(12, 11, 10, 5, 4, 3, 2);
@@ -45,7 +45,6 @@ void loop() {
   
   // Realizando X leituras e calculando a média da umidade e temperatura
   for (int i = 0; i < NUM_READINGS; i++) {
-    delay(2000);  // Aguarda 2 segundos entre as leituras
 
     humidity += dht.readHumidity();    // Soma as leituras de umidade
     temperature += dht.readTemperature(); // Soma as leituras de temperatura
