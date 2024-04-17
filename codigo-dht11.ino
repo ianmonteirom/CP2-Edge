@@ -39,6 +39,9 @@ void setup()
 }
 
 void loop() {
+  // Delay para o logo da empresa aparecer
+  delay(5000);
+
   // Definindo o valor da umidade e temperatura
   float humidity = 0;
   float temperature = 0;
@@ -83,9 +86,12 @@ void loop() {
   lcd.print(humidityInt);
   lcd.setCursor(15, 0);
   lcd.print("%");
+
+  // Delay para mostrar a umidade no display por 5 segundos
+  delay(5000);
   
   // 
-  delay(NUM_READINGS * 1000);
+  // delay(NUM_READINGS * 1000);
   lcd.clear();
   lcd.setCursor(0, 0);
   lcd.print("Temperatura");
@@ -110,6 +116,9 @@ void loop() {
   lcd.print(temperatureInt);
   lcd.setCursor(15, 0);
   lcd.print("C");
+
+  // Delay para mostrar a temperatura no display por 5 segundos
+  delay(5000);
 
 
   /* 
