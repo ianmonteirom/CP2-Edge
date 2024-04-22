@@ -31,7 +31,7 @@ para valores acima de 70% e também mostrar a umidade;
 para valores abaixo de 50% e também mostrar a umidade;
 - 14.Obrigatório o uso da função map() para os valores de luminosidade;
 - 15.Os valores devem ser medidos durante 10 ciclos de execução, após esses ciclos 
-apresentar os valores médios; (SÓ FALTA A LUMINOSIDADE)
+apresentar os valores médios;
 
 
 ## Problemas Encontrados 🤔
