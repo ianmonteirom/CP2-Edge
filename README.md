@@ -44,6 +44,7 @@ para valores abaixo de 50% e também mostrar a umidade;
 ## Problemas Encontrados 🤔
 - Ambos DHT22 e o Display conectam no 5V do Arduino
 - O Fotorresistor do Wokwi parece muito diferente do Tinkercad
+- Tá COMPLICADO de converter Lux para %
 
 
 ## Link do Projeto no Wokwi 🛠️
