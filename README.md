@@ -1,6 +1,6 @@
 ## O que falta ✏️
 
-- Adicionar para mostrar os desenhos da luminosidade, umidade e temperatura abaixo do valor no display (estava pensando em uma bateria, uma gota ou chuva e um termômetro)
+- Adicionar para mostrar os desenhos da luminosidade, umidade e temperatura abaixo do valor no display
 - 16.Apresentar o logo animado da equipe no Display durante a inicialização do equipamento.
 
 
