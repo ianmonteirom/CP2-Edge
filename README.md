@@ -37,6 +37,7 @@ Logo da nossa equipe
 - x4 Resistores de 220Ω;
 - Aproximadamente x24 Cabos jumper;
 
+
 ## ❓ E como o projeto funciona?
 - O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminosidade, a Umidade e a Temperatura do ambiente, e informa ao usuário uma média de 10 leituras de valores tanto no display quanto no serial. A cada 5 segundos, as informações do display mudam, alternando entre o valor da Luminosidade, Umidade e Temperatura, e seu estado (Ok, em Alerta, Estado crítico)
 - Enquanto o ambiente está escuro, o LED Verde ficará aceso, indicando que a Luminosidade está OK;
@@ -57,4 +58,4 @@ Logo da nossa equipe
 - Com todas essas funcionalidades, a Vinheria Agnello ficará satisfeita com nosso trabalho, utilizando o sensor de ambiente para monitorar seus vinhos.
 
 
-
+## 🔍 Problemas e Desafios Encontrados
