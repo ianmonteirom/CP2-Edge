@@ -15,7 +15,7 @@ Logo da nossa equipe
 
 
 ## 👥 Quem é o nosso cliente?
-- Nosso cliente é a Vinheria Agnello, um comércio de vinhos fictício inventado pela FIAP para desafiar os alunos a inovar e trabalhar com o mercado desde cedo. O problema da Vinheria Agnello que atenderemos na disciplina de Edge Computing é como podemos preservar a qualidade do vinho sem ele alterar seu sabor de qualquer forma. Conservar vinho é desafiador, pois ele deve estar em luminosidade, umidade e temperatura ideais, para não alterar sua química de qualquer forma possível. Pensando nisso, foi nos passado o trabalho de criar um **Sensor de Ambiente**.
+- Nosso cliente é a Vinheria Agnello, um comércio de vinhos fictício criado pela FIAP para desafiar os alunos a inovar e trabalhar com o mercado desde cedo. O problema da Vinheria Agnello que atenderemos na disciplina de Edge Computing é como podemos preservar a qualidade do vinho sem ele alterar seu sabor de qualquer forma. Conservar vinho é desafiador, pois ele deve estar em luminosidade, umidade e temperatura ideais, para não alterar sua química de qualquer forma possível. Pensando nisso, foi nos passado o trabalho de criar um **Sensor de Ambiente**.
 
 
 ## 🤔 Afinal, no que estamos trabalhando?
