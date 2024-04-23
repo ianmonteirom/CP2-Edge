@@ -3,7 +3,7 @@
 👋 Olá, bem-vindo ao nosso trabalho do Check Point 2 de Edge Computing! Nós somos empresa Data Sphere da turma 1ESPH, e é um imenso prazer apresentar este projeto.
 
 
-![Data Sphere](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/e383becc-d9a9-4870-9cbb-6ade20a69613)
+![Data Sphere500x500](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/376fb50a-b0eb-4ac9-ac44-6fe4d6f4844d)
 Logo da nossa equipe
 ## 🔮 O que é a Data Sphere?
 - A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, formada pelos alunos: <br>
@@ -11,7 +11,8 @@ Logo da nossa equipe
   Giuliana Lucas - RM 557597 <br>
   Ian Monteiro -   RM 558652 <br>
   Igor Brunelli -  RM 555035 <br>
-  
+
+
 ## 🤔 Afinal, no que estamos trabalhando?
 - O nosso trabalho para a CP2 de Edge Computing é um sensor de ambiente, um projeto em <strong>Arduino</strong> montado tanto em um simulador on-line quanto na bancada no Hands On.
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/8ee457a6-1f2d-448f-b176-9c2a8d6bc455)
