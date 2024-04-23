@@ -39,7 +39,7 @@ A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, f
 
 
 ## ❓ E como o projeto funciona?
-- O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminosidade, a Umidade e a Temperatura do ambiente, e informa ao usuário uma média de 10 leituras de valores tanto no display quanto no serial. A cada 5 segundos, as informações do display mudam, alternando entre o valor da Luminosidade, Umidade e Temperatura, e seu estado (Ok, em Alerta, Estado crítico)
+O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminosidade, a Umidade e a Temperatura do ambiente, e informa ao usuário uma média de 10 leituras de valores tanto no display quanto no serial. A cada 5 segundos, as informações do display mudam, alternando entre o valor da Luminosidade, Umidade e Temperatura, e seu estado (Ok, em Alerta, Estado crítico)
 - Enquanto o ambiente está escuro, o LED Verde ficará aceso, indicando que a Luminosidade está OK;
 - Caso o ambiente fique a meia luz, o LED Amarelo acenderá no lugar, indicando estado de alerta para a Luminosidade;
 - Caso o ambiente fique totalmente iluminado, o LED Vermelho acenderá no lugar e a buzina apitará, indicando estado crítico para a Luminosidade;
@@ -359,5 +359,19 @@ Durante o desenvolvimento do projeto enfrentamos diversos problemas e desafios a
 - As entradas do Arduino estão praticamente sendo todas utilizadas, dificultando a inserção de todas as funcionalidades;
 - Montagem e estruturação de todo o código do projeto, na qual tivemos que pensar em várias funcionalidades diferentes e inéditas para nós;
 - O Wokwi (Simulador on-line utilizado) possui somente o DHT22, enquanto na bancada utilizaremos o DHT11, sendo necessário a alteração de uma linha do código dependendo de onde utilizaremos o projeto;
-- O Fotorresistor do Wokwi é diferente do antigo simulador que estávamos utilizando (Tinkercad);
+- O Fotorresistor do Wokwi é diferente do fotorresistor do antigo simulador que estávamos utilizando (Tinkercad);
+- Converter a medida LUX que o Fotorresistor captava para porcentagem;
+- O serviço que utilizamos para criar os desenhos e símbolos para o display possui muitas limitações, como a falta de um sistema para salvar e compartilhar os projetos;
+- Foi uma dor de cabeça fazer os desenhos aparecerem corretamente no display;
+- Pelo hardware possuir muitas funcionalidades, é necessário bastante tempo para montá-lo corretamente;
+
+
+## ✅ Créditos
+Utilizamos diversas ferramentas e serviços para tornar a realização desse projeto possível, sendo elas:
+- ChatGPT: https://chat.openai.com/
+- Wokwi: https://wokwi.com/
+- Tinkercad: https://www.tinkercad.com/
+- Wiki de Bibliotecas do Arduino: https://www.arduino.cc/reference/en/libraries/
+- Microsoft Teams: https://teams.microsoft.com/
+- Github: https://github.com/
 - 
