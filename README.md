@@ -8,7 +8,7 @@
 Logo da nossa equipe
 ## 🔮 O que é a Data Sphere?
 A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, formada pelos alunos: 
-- Artur Alves -    RM 555171 
+- Artur Alves <a name="https://www.linkedin.com/in/artur-alves-tenca-b1ba862b6/">artur</a> -    RM 555171 
 - Giuliana Lucas - RM 557597
 - Ian Monteiro -   RM 558652 
 - Igor Brunelli -  RM 555035 
@@ -374,4 +374,4 @@ Utilizamos diversas ferramentas e serviços para tornar a realização desse pro
 - Wiki de Bibliotecas do Arduino: https://www.arduino.cc/reference/en/libraries/
 - Microsoft Teams: https://teams.microsoft.com/
 - Github: https://github.com/
-- 
+
