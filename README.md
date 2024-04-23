@@ -46,4 +46,11 @@ Logo da nossa equipe
 - Caso a temperatura saia da faixa ideal, o LED Amarelo acenderá no lugar, e a buzina apitará;
 - Caso a umidade saia da faixa ideal, o LED Vermelho acenderá no lugar, e a buzina apitará;
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/cba33926-f182-4dfc-8e67-8f154cd813c1)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/3cd40ac3-9e87-4dce-96bb-549175007137)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/c7baf9ef-dcc2-4de2-9b17-13e1762361d5)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/34b436bd-9624-418d-af31-f2e337ed9595)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/a022d7bf-f0d5-4d19-be5b-264eff3a0a3a)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/2622bb69-5d0b-49d2-9b98-dd858bfd1126)
+
+
 
