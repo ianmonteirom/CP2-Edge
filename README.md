@@ -19,4 +19,11 @@ Logo da nossa equipe
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/8ee457a6-1f2d-448f-b176-9c2a8d6bc455)
 - Na imagem acima, temos o projeto pronto no simulador on-line **(Link do projeto: https://wokwi.com/projects/395277160338652161)**
 
+
+## 📝 Lista de Materiais
+1. 1 Placa Arduino Uno
+2. 1 Breaboard
+3. 1 Sensor DHT11 ou DH22, depende de onde o projeto será montado. O DHT11 será utilizado na bancada e o DHT22 será utilizado no simulador, por ser o único disponibilizado pelo software.
+4. 
+
 ## ❓ E como ele funciona?
