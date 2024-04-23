@@ -40,6 +40,7 @@ apresentar os valores médios;
 - Não sabemos exatamente quais valores em % cabem para luminosidade escura, meia-luz e iluminado
 - Mostrar certinho os desenhos no display está sendo definitivamente uma dor de cabeça!
 - O Site CharEditor possui muitas limitações, como por exemplo a falta de poder compartilhar ou salvar os projetos desenhados
+- DEFINITIVAMENTE ESTÁ SENDO UM PROBLEMA POR OS DESENHOS NO DISPLAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
 ## Link do Projeto no Wokwi 🛠️
