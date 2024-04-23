@@ -39,6 +39,7 @@ apresentar os valores médios;
 - O Fotorresistor do Wokwi parece muito diferente do Tinkercad
 - Foi COMPLICADO de converter Lux para %
 - Não sabemos exatamente quais valores em % cabem para luminosidade escura, meia-luz e iluminado
+- Mostrar certinho os desenhos no display está sendo definitivamente uma dor de cabeça!
 
 
 ## Link do Projeto no Wokwi 🛠️
