@@ -31,6 +31,6 @@ Logo da nossa equipe
 - x1 LED Amarelo;
 - x1 LED Vermelho;
 - x4 Resistores de 220Ω;
-- 
+- Aproximadamente x24 Cabos jumper;
 
 ## ❓ E como ele funciona?
