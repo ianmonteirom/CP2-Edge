@@ -15,4 +15,4 @@ Logo da nossa equipe
 ## 🤔 Afinal, no que estamos trabalhando?
 - O nosso trabalho para a CP2 de Edge Computing é um sensor de ambiente, um projeto em <strong>Arduino</strong> montado tanto em um simulador on-line quanto na bancada no Hands On.
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/8ee457a6-1f2d-448f-b176-9c2a8d6bc455)
-
+- Na imagem acima, temos o projeto pronto no simulador on-line <strong>(Link do projeto: https://wokwi.com/projects/395277160338652161)</strong>
