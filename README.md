@@ -51,6 +51,10 @@ Logo da nossa equipe
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/34b436bd-9624-418d-af31-f2e337ed9595)
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/a022d7bf-f0d5-4d19-be5b-264eff3a0a3a)
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/2622bb69-5d0b-49d2-9b98-dd858bfd1126)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/35ee3e90-3f01-4acf-83d6-2c39c1621fff)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/5e1c7271-36ad-4a2e-8c62-983173f94218)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/7fb84fb1-7ae1-4cf8-9c80-d9ad53d75151)
+
 
 
 
