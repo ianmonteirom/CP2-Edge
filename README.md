@@ -12,3 +12,5 @@ Logo da nossa equipe
   Ian Monteiro -   RM 558652 <br>
   Igor Brunelli -  RM 555035 <br>
   
+## 🤔 Afinal, no que estamos trabalhando?
+- O nosso trabalho para a CP2 de Edge Computing é um sensor de ambiente, um projeto em <strong>Arduino</strong> montado tanto em um simulador on-line quanto na bancada no Hands On.
