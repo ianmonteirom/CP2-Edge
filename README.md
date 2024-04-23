@@ -357,4 +357,7 @@ delay(DELAY_PADRAO);
 Durante o desenvolvimento do projeto enfrentamos diversos problemas e desafios a serem solucionados, como:
 - O projeto utiliza mais componentes do que os projetos anteriores realizados ao longo da disciplina;
 - As entradas do Arduino estão praticamente sendo todas utilizadas, dificultando a inserção de todas as funcionalidades;
-- Montagem e estruturação de todo o código do 
+- Montagem e estruturação de todo o código do projeto, na qual tivemos que pensar em várias funcionalidades diferentes e inéditas para nós;
+- O Wokwi (Simulador on-line utilizado) possui somente o DHT22, enquanto na bancada utilizaremos o DHT11, sendo necessário a alteração de uma linha do código dependendo de onde utilizaremos o projeto;
+- O Fotorresistor do Wokwi é diferente do antigo simulador que estávamos utilizando (Tinkercad);
+- 
