@@ -14,6 +14,10 @@ Logo da nossa equipe
   Igor Brunelli -  RM 555035 <br>
 
 
+## 👥 Quem é o nosso cliente?
+- Nosso cliente é a Vinheria Agnello, um comércio de vinhos fictício inventado pela FIAP para desafiar os alunos a inovar e trabalhar com o mercado desde cedo. O problema da Vinheria Agnello que atenderemos na disciplina de Edge Computing é como podemos preservar a qualidade do vinho sem ele alterar seu sabor de qualquer forma. Conservar vinho é desafiador, pois ele deve estar em luminosidade, umidade e temperatura ideais, para não alterar sua química de qualquer forma possível. Pensando nisso, foi nos passado o trabalho de criar um **Sensor de Ambiente**.
+
+
 ## 🤔 Afinal, no que estamos trabalhando?
 - O nosso trabalho para a CP2 de Edge Computing é um sensor de ambiente, um projeto em **Arduino** montado tanto em um simulador on-line quanto na bancada no Hands On.
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/8ee457a6-1f2d-448f-b176-9c2a8d6bc455)
@@ -22,7 +26,7 @@ Logo da nossa equipe
 
 ## 📝 Lista de Materiais
 - x1 Placa Arduino Uno;
-- x1 Breaboard;
+- x1 Breadboard;
 - x1 Sensor DHT11 ou DH22, depende de onde o projeto será montado. O DHT11 será utilizado na bancada e o DHT22 será utilizado no simulador, por ser o único disponibilizado pelo software;
 - x1 Display LCD 16 x 2;
 - x1 Fotoresistor LDR;
@@ -33,4 +37,5 @@ Logo da nossa equipe
 - x4 Resistores de 220Ω;
 - Aproximadamente x24 Cabos jumper;
 
-## ❓ E como ele funciona?
+## ❓ E como o projeto funciona?
+- O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminosidade, a Umidade e a Temperatura do ambiente, e informa ao usuário uma média dos valores.
