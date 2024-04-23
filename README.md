@@ -54,7 +54,7 @@ Logo da nossa equipe
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/35ee3e90-3f01-4acf-83d6-2c39c1621fff)
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/5e1c7271-36ad-4a2e-8c62-983173f94218)
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/7fb84fb1-7ae1-4cf8-9c80-d9ad53d75151)
-
+- Com todas essas funcionalidades, a Vinheria Agnello ficará satisfeita com nosso trabalho, utilizando o sensor de ambiente para monitorar seus vinhos.
 
 
 
