@@ -27,7 +27,7 @@ Logo da nossa equipe
 ## 📝 Lista de Materiais
 - x1 Placa Arduino Uno;
 - x1 Breadboard;
-- x1 Sensor DHT11 ou DH22, depende de onde o projeto será montado. O DHT11 será utilizado na bancada e o DHT22 será utilizado no simulador, por ser o único disponibilizado pelo software;
+- x1 Sensor DHT11 ou DHT22, depende de onde o projeto será montado. O DHT11 será utilizado na bancada e o DHT22 será utilizado no simulador, por ser o único disponibilizado pelo software;
 - x1 Display LCD 16 x 2;
 - x1 Fotoresistor LDR;
 - x1 Buzzer (Buzina);
