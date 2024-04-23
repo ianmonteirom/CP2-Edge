@@ -3,7 +3,8 @@
 👋 Olá, bem-vindo ao nosso trabalho do Check Point 2 de Edge Computing! Nós somos empresa Data Sphere da turma 1ESPH, e é um imenso prazer apresentar este projeto.
 
 
-![Data Sphere500x500](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/376fb50a-b0eb-4ac9-ac44-6fe4d6f4844d)
+
+![Data Sphere1000x1000](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/0fe80a9b-6290-417d-8367-2abe3824d0b0)
 Logo da nossa equipe
 ## 🔮 O que é a Data Sphere?
 - A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, formada pelos alunos: <br>
