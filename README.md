@@ -13,4 +13,4 @@ Logo da nossa equipe
   Igor Brunelli -  RM 555035 <br>
   
 ## 🤔 Afinal, no que estamos trabalhando?
-- O nosso trabalho para a CP2 de Edge Computing é um sensor de ambiente, um projeto em <strong>Arduino</strong> montado tanto em um simulador on-line quanto na bancada no Hands On.
+- O nosso trabalho para a CP2 de Edge Computing é um sensor de ambiente, um projeto em <strong><u>Arduino</u></strong> montado tanto em um simulador on-line quanto na bancada no Hands On.
