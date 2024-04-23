@@ -45,4 +45,5 @@ Logo da nossa equipe
 - Enquanto o ambiente estiver na temperatura e umidade ideal, o LED Verde ficará aceso;
 - Caso a temperatura saia da faixa ideal, o LED Amarelo acenderá no lugar, e a buzina apitará;
 - Caso a umidade saia da faixa ideal, o LED Vermelho acenderá no lugar, e a buzina apitará;
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/cba33926-f182-4dfc-8e67-8f154cd813c1)
 
