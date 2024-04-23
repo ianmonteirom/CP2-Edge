@@ -1,8 +1,6 @@
 ## O que falta ✏️
 
 - Adicionar para mostrar os desenhos da luminosidade, umidade e temperatura abaixo do valor no display
-- 16.Apresentar o logo animado da equipe no Display durante a inicialização do equipamento.
-
 
 ## Terminado ✅
 
@@ -32,6 +30,7 @@ para valores abaixo de 50% e também mostrar a umidade;
 - 14.Obrigatório o uso da função map() para os valores de luminosidade;
 - 15.Os valores devem ser medidos durante 10 ciclos de execução, após esses ciclos 
 apresentar os valores médios;
+- 16.Apresentar o logo animado da equipe no Display durante a inicialização do equipamento.
 
 
 ## Problemas Encontrados 🤔
