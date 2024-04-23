@@ -39,7 +39,7 @@ apresentar os valores médios;
 - Foi COMPLICADO de converter Lux para %
 - Não sabemos exatamente quais valores em % cabem para luminosidade escura, meia-luz e iluminado
 - Mostrar certinho os desenhos no display está sendo definitivamente uma dor de cabeça!
-- O Site CharEditor possui muitas limitações, como por exemplo a falta de poder compartilhar os projetos desenhados
+- O Site CharEditor possui muitas limitações, como por exemplo a falta de poder compartilhar ou salvar os projetos desenhados
 
 
 ## Link do Projeto no Wokwi 🛠️
