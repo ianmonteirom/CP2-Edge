@@ -15,7 +15,7 @@ Logo da nossa equipe
 
 
 ## 👥 Quem é o nosso cliente?
-- Nosso cliente é a Vinheria Agnello, um comércio de vinhos fictício criado pela FIAP para desafiar os alunos a inovar e trabalhar com o mercado desde cedo. O problema da Vinheria Agnello que atenderemos na disciplina de Edge Computing é como podemos preservar a qualidade do vinho sem ele alterar seu sabor de qualquer forma. Conservar vinho é desafiador, pois ele deve estar em luminosidade, umidade e temperatura ideais, para não alterar sua química de qualquer forma possível. Pensando nisso, foi nos passado o trabalho de criar um **Sensor de Ambiente**.
+- Nosso cliente é a Vinheria Agnello, um comércio de vinhos fictício criado pela FIAP para desafiar os alunos a inovar e trabalhar com o mercado desde cedo. O problema da Vinheria Agnello que atenderemos na disciplina de Edge Computing é como podemos preservar a qualidade do vinho sem ele alterar seu sabor de qualquer forma. Conservar vinho é desafiador, pois ele deve estar em luminosidade, umidade e temperatura ideais, para não alterar sua composição química de qualquer maneira possível. Pensando nisso, foi nos passado o trabalho de criar um **Sensor de Ambiente**.
 
 
 ## 🤔 Afinal, no que estamos trabalhando?
@@ -38,4 +38,9 @@ Logo da nossa equipe
 - Aproximadamente x24 Cabos jumper;
 
 ## ❓ E como o projeto funciona?
-- O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminosidade, a Umidade e a Temperatura do ambiente, e informa ao usuário uma média dos valores.
+- O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminosidade, a Umidade e a Temperatura do ambiente, e informa ao usuário uma média de 10 leituras de valores tanto no display quanto no serial. A cada 5 segundos, as informações do display mudam, alternando entreo valor da Luminosidade, Umidade e Temperatura, e seu estado (Ok, em Alerta, Estado crítico)
+- Enquanto o ambiente está escuro, o LED Verde ficará aceso, indicando que a Luminosidade está OK;
+- Caso o ambiente fique a meia luz, o LED Amarelo acenderá no lugar, indicando estado de alerta para a Luminosidade;
+- Caso o ambiente fique totalmente iluminado, o LED Vermelho acenderá no lugar e a buzina apitará, indicando estado crítico para a Luminosidade;
+- Enquanto o ambiente estiver na temperatura e umidade ideal, o LED Verde ficará aceso;
+- Caso a temperatura saia da faixa ideal, o LED Amarelo acenderá no lugar, e a buzina apitará;
