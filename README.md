@@ -7,11 +7,11 @@
 ![Data Sphere1000x1000](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/0fe80a9b-6290-417d-8367-2abe3824d0b0)
 Logo da nossa equipe
 ## 🔮 O que é a Data Sphere?
-- A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, formada pelos alunos: <br>
-  Artur Alves -    RM 555171 <br>
-  Giuliana Lucas - RM 557597 <br>
-  Ian Monteiro -   RM 558652 <br>
-  Igor Brunelli -  RM 555035 <br>
+A Data Sphere Solutions é uma empresa fictícia representando a nossa equipe, formada pelos alunos: 
+- Artur Alves -    RM 555171 
+- Giuliana Lucas - RM 557597
+- Ian Monteiro -   RM 558652 
+- Igor Brunelli -  RM 555035 
 
 
 ## 👥 Quem é o nosso cliente?
