@@ -44,3 +44,5 @@ Logo da nossa equipe
 - Caso o ambiente fique totalmente iluminado, o LED Vermelho acenderá no lugar e a buzina apitará, indicando estado crítico para a Luminosidade;
 - Enquanto o ambiente estiver na temperatura e umidade ideal, o LED Verde ficará aceso;
 - Caso a temperatura saia da faixa ideal, o LED Amarelo acenderá no lugar, e a buzina apitará;
+- Caso a umidade saia da faixa ideal, o LED Vermelho acenderá no lugar, e a buzina apitará;
+
