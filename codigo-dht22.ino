@@ -24,22 +24,6 @@ byte logo1x3[] = { B10000, B10000, B01000, B01000, B00100, B00011, B00000, B0000
 byte logo1x4[] = { B01111, B01000, B01111, B00001, B01111, B00000, B11111, B00000 };
 byte logo1x5[] = { B00001, B00001, B00010, B00010, B00100, B11000, B00000, B00000 };
 
-// Definindo as bytes do desenho da luminosidade 
-// Luminosidade ALTA
-
-/*
-byte lumiAlta6x0[] = { B00000, B00000, B00000, B00010, B00001, B00000, B00000, B00110 };
-byte lumiAlta7x0[] = { B00000, B00100, B00010, B00000, B00011, B00111, B01111, B01111 };
-byte lumiAlta8x0[] = { B00000, B00010, B00100, B00000, B11000, B11100, B11110, B11110 };
-byte lumiAlta9x0[] = { B00000, B00000, B00000, B01000, B10000, B00000, B00000, B01100 };
-byte lumiAlta6x1[] = { B00000, B00000, B00001, B00010, B00000, B00000, B00000, B00000 };
-byte lumiAlta7x1[] = { B01111, B01111, B00111, B00011, B00000, B00100, B01000, B00000 };
-byte lumiAlta8x1[] = { B11110, B11110, B11100, B11000, B00000, B00100, B00010, B00000 };
-byte lumiAlta9x1[] = { B00000, B00000, B10000, B01000, B00000, B00000, B00000, B00000 };
-*/
-
-
-
 void setup()
 {
   // Iniciando o serial
@@ -56,18 +40,6 @@ void setup()
   // Iniciando o DHT e o Display 16 x 2
   dht.begin();
   lcd.begin(16,2); 
-
-  // Criando os caracteres para o desenho da Luminosidade ALTA 
-  /*
-  lcd.createChar(6, lumiAlta6x0);
-  lcd.createChar(7, lumiAlta7x0);
-  lcd.createChar(8, lumiAlta8x0);
-  lcd.createChar(9, lumiAlta9x0);
-  lcd.createChar(10, lumiAlta6x1);
-  lcd.createChar(11, lumiAlta7x1);
-  lcd.createChar(12, lumiAlta8x1);
-  lcd.createChar(13, lumiAlta9x1);
-  */
 
   // Criando os caracteres para o desenho do logo para o display
   lcd.clear();                  
@@ -177,29 +149,6 @@ if (luminosity <= 15) {
     // Escreve no display no estado da umidade
     lcd.setCursor(0, 1);
     lcd.print("ALTA");
-
-    // Mostra no display o desenho da Luminosidade ALTA
-
-    /*
-    lcd.clear();
-    lcd.setCursor(6, 0);
-    lcd.write(byte(6));
-    lcd.setCursor(7, 0);
-    lcd.write(byte(7));
-    lcd.setCursor(8, 0);
-    lcd.write(byte(8));
-    lcd.setCursor(9, 0);
-    lcd.write(byte(9));
-    lcd.setCursor(6, 1);
-    lcd.write(byte(10));
-    lcd.setCursor(7, 1);
-    lcd.write(byte(11));
-    lcd.setCursor(8, 1);
-    lcd.write(byte(12));
-    lcd.setCursor(9, 1);
-    lcd.write(byte(13));
-    */
-    
 
 }
 
