@@ -57,6 +57,10 @@ O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminos
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/5e1c7271-36ad-4a2e-8c62-983173f94218)
 ![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/7fb84fb1-7ae1-4cf8-9c80-d9ad53d75151)
 - Com todas essas funcionalidades, a Vinheria Agnello ficará satisfeita com nosso trabalho, utilizando o sensor de ambiente para monitorar seus vinhos.
+ 
+
+## ⭐ O Nosso Diferencial
+- O diferencial do nosso projeto está na facilidade e praticidade do uso. Com uma tela simples, qualquer um consegue visualizar os níveis de luminosidade, umidade e temperatura, e entender quando elas estão Ok, em estado de Alerta ou em estado Crítico. Além de a precisão nos dados, já que o software calcula a média de 10 leituras. Qualquer um pode comprar e utilizar no seu ambiente, de maneira fácil e rápida. Não colocamos todos os dados ao mesmo tempo no display, pois ao nosso ver isso dificultaria o entendimento para o usuário, tornando o projeto mais confuso. Nosso código está todo comentado, então qualquer um que trabalhar nele poderá entendê-lo com facilidade.
 
 
 ## 🖥️ O Código do Projeto
