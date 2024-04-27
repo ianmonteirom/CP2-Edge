@@ -47,15 +47,16 @@ O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminos
 - Enquanto o ambiente estiver na temperatura e umidade ideal, o LED Verde ficará aceso;
 - Caso a temperatura saia da faixa ideal, o LED Amarelo acenderá no lugar, e a buzina apitará;
 - Caso a umidade saia da faixa ideal, o LED Vermelho acenderá no lugar, e a buzina apitará;
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/cba33926-f182-4dfc-8e67-8f154cd813c1)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/3cd40ac3-9e87-4dce-96bb-549175007137)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/c7baf9ef-dcc2-4de2-9b17-13e1762361d5)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/34b436bd-9624-418d-af31-f2e337ed9595)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/a022d7bf-f0d5-4d19-be5b-264eff3a0a3a)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/2622bb69-5d0b-49d2-9b98-dd858bfd1126)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/35ee3e90-3f01-4acf-83d6-2c39c1621fff)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/5e1c7271-36ad-4a2e-8c62-983173f94218)
-![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/7fb84fb1-7ae1-4cf8-9c80-d9ad53d75151)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/bfc012ff-c0ec-4de6-bcda-be2b73383095)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/8e330624-7a45-4169-b389-89827043f7fe)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/8b5b21fd-db24-4593-832c-1a17439dccb7)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/ecaa3b4f-1a81-4147-9cba-262b04efaec4)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/56424abc-e830-4b70-a478-f72c01257249)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/c4db4b90-0672-426d-a070-fc847ec6ff13)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/0f62e5c6-c65a-4d57-8e87-80ab66f9d988)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/b2322351-9fe0-47b7-876e-d11c0489e576)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/4c4050a3-f5b0-49b1-9a63-5fad01f94e1e)
+![image](https://github.com/ianmonteirom/CP2-Edge/assets/152393807/5d1b89f8-3b81-4257-ae49-78d81f22e5d0)
 - Com todas essas funcionalidades, a Vinheria Agnello ficará satisfeita com nosso trabalho, utilizando o sensor de ambiente para monitorar seus vinhos.
  
 
