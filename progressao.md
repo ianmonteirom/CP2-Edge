@@ -1,6 +1,6 @@
 ## O que falta ✏️
 
-- Adicionar para mostrar os desenhos da luminosidade, umidade e temperatura abaixo do valor no display
+- -----
 
 ## Terminado ✅
 
@@ -31,6 +31,7 @@ para valores abaixo de 50% e também mostrar a umidade;
 - 15.Os valores devem ser medidos durante 10 ciclos de execução, após esses ciclos 
 apresentar os valores médios;
 - 16.Apresentar o logo animado da equipe no Display durante a inicialização do equipamento.
+- Adicionar para mostrar os desenhos da luminosidade, umidade e temperatura abaixo do valor no display
 
 
 ## Problemas Encontrados 🤔
