@@ -60,7 +60,7 @@ O projeto é um **Sensor de Ambiente**, ou seja, ele basicamente capta a Luminos
  
 
 ## ⭐ O Nosso Diferencial
-- O diferencial do nosso projeto está na facilidade e praticidade do uso. Com uma tela simples, qualquer um consegue visualizar os níveis de luminosidade, umidade e temperatura, e entender quando elas estão Ok, em estado de Alerta ou em estado Crítico. Além de a precisão nos dados, já que o software calcula a média de 10 leituras. Qualquer um pode comprar e utilizar no seu ambiente, de maneira fácil e rápida. Não colocamos todos os dados ao mesmo tempo no display, pois ao nosso ver isso dificultaria o entendimento para o usuário, tornando o projeto mais confuso. Nosso código está todo comentado, então qualquer um que trabalhar nele poderá entendê-lo com facilidade.
+- O diferencial do nosso projeto está na facilidade e praticidade do uso. Com uma tela simples, qualquer um consegue visualizar os níveis de luminosidade, umidade e temperatura, e entender quando elas estão Ok, em estado de Alerta ou em estado Crítico, com a ajuda dos desenhos de uma lua e sol para luminosidade, uma nuvem para a umidade e um termômetro para temperatura, possibilitando um entendimento auto-explicativo. Além de a precisão nos dados, já que o software calcula a média de 10 leituras. Qualquer um pode comprar e utilizar no seu ambiente, de maneira fácil e rápida. Não colocamos todos os dados ao mesmo tempo no display, pois ao nosso ver isso dificultaria o entendimento para o usuário, tornando o projeto mais confuso. Nosso código está todo comentado, então qualquer um que trabalhar nele poderá entendê-lo com facilidade.
 
 
 ## 🖥️ O Código do Projeto
