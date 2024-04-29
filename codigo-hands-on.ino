@@ -161,7 +161,7 @@ void loop() {
   temperature /= NUM_READINGS;
 
   // Convertendo a Luminosidade
-  float luminosity = map(luminosityLux, 1023, 0, 0, 100);
+  float luminosity = map(luminosityLux, 0, 1023, 0, 100);
 
   // Convertendo o valores da luminosidade, umidade e temperatura para int, para não aparecer casas decimais no display
   int luminosityInt = static_cast<int>(luminosity);
